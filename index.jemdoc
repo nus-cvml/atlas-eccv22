@@ -9,15 +9,16 @@
 <b>A</b>c<b>T</b>ion <b>L</b>ocalization <b>A</b>nd <b>S</b>egmentation in Untrimmed Videos
 </beam></br>
 <beams>
-in conjunction with ECCV 2022</br>
-October 24, 2022 TEL AVIV
+in conjunction with ECCV 2022, TEL AVIV</br>
+Monday Morning, October 24, 2022 
 </beams>
 </div>
 }}
 
 = Overview 
-    The majority of research in action understanding focuses on designing methods to encode a few seconds of short, trimmed clips and classify these with single action labels. Such methods, however, are rarely applicable for temporally localizing and\/or classifying actions from longer, untrimmed streams of video. In this tutorial, we would like to focus on research on understanding actions in untrimmed, long videos up to tens of minutes.\n
-     Compared to action recognition from trimmed video clips, untrimmed long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. Such challenges in- clude: “What are the actions and when do these actions happen in the untrimmed long video sequences?” Our main focus for this tutorial is two tasks that aim to find human actions in videos, i.e., 1) Temporal Action Localization\/Detection and 2) Temporal Action Segmentation.
+The majority of research in action understanding focuses on designing methods to encode a few seconds of short, trimmed clips and classify these with single action labels. Such methods, however, are rarely applicable for temporally localizing and\/or classifying actions from longer, untrimmed streams of video. In this tutorial, we would like to focus on research on understanding actions in untrimmed, long videos up to tens of minutes.\n
+    
+Compared to action recognition from trimmed video clips, untrimmed long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. Such challenges in- clude: “What are the actions and when do these actions happen in the untrimmed long video sequences?” Our main focus for this tutorial is two tasks that aim to find human actions in videos, i.e., 1) Temporal Action Localization\/Detection and 2) Temporal Action Segmentation.
 
 = Speakers
 TBD
