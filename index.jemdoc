@@ -1,11 +1,19 @@
 = ATLAS Tutorial
 
+~~~
+{}{img_left}{./logos/atlas_logo.png}{atlas}{100%}{}{https://atlas-eccv22.github.io}
+~~~
 
 {{
-<beam>AcTion Localization And Segmentation in Untrimmed Videos</beam>
-<p>in conjunction with ECCV 2022, TEL AVIV</p></br>
-<p>October 24, 2022</p>
-
+<div id="beamer">
+<beam> 
+<b>A</b>c<b>T</b>ion <b>L</b>ocalization <b>A</b>nd <b>S</b>egmentation in Untrimmed Videos
+</beam></br>
+<beams>
+in conjunction with ECCV 2022</br>
+October 24, 2022 TEL AVIV
+</beams>
+</div>
 }}
 
 
@@ -46,4 +54,5 @@ what we do with this tutoiural
             Research Fellow, SoC NUS
         </p>
     </div>
+</div>
 }}

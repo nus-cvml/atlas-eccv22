@@ -242,10 +242,11 @@ pre {
 }
 
 beam {
-	font-size:30px;
-	text-align: center;
-	
-
+	font-size:25px;
+}
+beams{
+	font-size:20px;
+	font-style:italic;
 }
 
 div#footer-container{
@@ -472,7 +473,8 @@ div#text-img-container {
 	overflow: hidden;
 	padding: 0;
 	margin: 0;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
+	text-align:center
 }
 
 div#img-container {
@@ -666,7 +668,9 @@ div#layout-menu-container .closebtn:hover {
 }
 
 
-
+div#beamer{
+	text-align: center;
+}
 
 /* members */
 div#member-container{
