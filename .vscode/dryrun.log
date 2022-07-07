@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/nate/Dropbox/atlas-eccv22/atlas-eccv22.github.io'
+jemdoc -c mysite.conf -o index.html index.jemdoc
+make: Leaving directory `/Users/nate/Dropbox/atlas-eccv22/atlas-eccv22.github.io'
+ 
