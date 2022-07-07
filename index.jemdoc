@@ -1,0 +1,49 @@
+= ATLAS Tutorial
+
+
+{{
+<beam>AcTion Localization And Segmentation in Untrimmed Videos</beam>
+<p>in conjunction with ECCV 2022, TEL AVIV</p></br>
+<p>October 24, 2022</p>
+
+}}
+
+
+= Overview 
+what we do with this tutoiural
+
+= Schedules
+
+
+= Organizers
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="./profiles/angela.png">
+        <p>
+            <b>Angela Yao</b></br>
+            Assistant Professor, SoC NUS
+        </p>
+    </div>
+    <div id="member">
+        <img src="./profiles/junsong.png">
+        <p>
+            <b>Junsong Yuan</b></br>
+            Professor, CSE SUNY Buffalo
+        </p>
+    </div> 
+    <div id="member">
+        <img src="./profiles/fadime.png">
+        <p>
+            <b>Fadimei Sener</b></br>
+            Research Scientist, Reality Labs, Meta
+        </p>
+    </div>
+    <div id="member">
+        <img src="./profiles/guodong.png">
+        <p>
+            <b>Guodong Ding</b></br>
+            Research Fellow, SoC NUS
+        </p>
+    </div>
+}}
