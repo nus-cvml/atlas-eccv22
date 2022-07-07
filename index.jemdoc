@@ -1,7 +1,7 @@
 = ATLAS Tutorial
 
 ~~~
-{}{img_left}{./logos/atlas_logo.png}{atlas}{100%}{}{https://atlas-eccv22.github.io}
+{}{img_left}{./logos/atlas.png}{atlas}{100%}{}{https://atlas-eccv22.github.io}
 ~~~
 
 {{
@@ -16,12 +16,15 @@ October 24, 2022 TEL AVIV
 </div>
 }}
 
-
 = Overview 
-what we do with this tutoiural
+    The majority of research in action understanding focuses on designing methods to encode a few seconds of short, trimmed clips and classify these with single action labels. Such methods, however, are rarely applicable for temporally localizing and\/or classifying actions from longer, untrimmed streams of video. In this tutorial, we would like to focus on research on understanding actions in untrimmed, long videos up to tens of minutes.\n
+     Compared to action recognition from trimmed video clips, untrimmed long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. Such challenges in- clude: “What are the actions and when do these actions happen in the untrimmed long video sequences?” Our main focus for this tutorial is two tasks that aim to find human actions in videos, i.e., 1) Temporal Action Localization\/Detection and 2) Temporal Action Segmentation.
 
-= Schedules
+= Speakers
+TBD
 
+= Schedule
+TDA
 
 = Organizers
 {{
