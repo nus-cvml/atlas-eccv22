@@ -15,7 +15,7 @@ all: $(HDOCS)
 upload:
 	git add . 
 	git commit -m "regular update"
-	git push -u origin master
+	git push -u origin main
 
 .PHONY: clean
 clean: 
