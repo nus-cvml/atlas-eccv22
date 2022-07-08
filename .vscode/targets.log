@@ -6,9 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
 
-# Make data base, printed on Thu Jul  7 19:59:56 2022
+# Make data base, printed on Fri Jul  8 18:49:04 2022
 
 # Variables
 
@@ -41,7 +40,7 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # makefile (from `Makefile', line 4)
 CONF = mysite.conf
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/95/w0q88j6d4cs8807bt9m3nkgm0000gn/T/vscode-ipc-b1710ac0-119c-4223-82c0-7ecd369009a5.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/95/w0q88j6d4cs8807bt9m3nkgm0000gn/T/vscode-ipc-a92660b2-6f15-4c51-9aca-0c5605d04070.sock
 # makefile (from `Makefile', line 1)
 DOCS = $(basename $(shell find . -name "*.jemdoc"))
 # environment
@@ -59,7 +58,7 @@ HDOCS = $(addsuffix .html, $(DOCS))
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.EVRvGR2ici/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.ysO5HXdh4M/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -163,7 +162,7 @@ MAKELEVEL := 0
 # environment
 CONDA_PREFIX = /Users/nate/opt/miniconda3
 # environment
-VSCODE_PID = 36969
+VSCODE_PID = 3280
 # environment
 _CE_CONDA = 
 # environment
@@ -177,7 +176,7 @@ LANG = C
 
 # Directories
 
-# . (device 16777220, inode 19540821): 15 files, no impossibilities.
+# . (device 16777225, inode 19540821): 15 files, no impossibilities.
 
 # 15 files, no impossibilities in 1 directories.
 
@@ -195,7 +194,7 @@ LANG = C
 # Not a target:
 index.jemdoc:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-07 18:28:40
+#  Last modified 2022-07-07 20:00:04
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -234,7 +233,7 @@ Makefile:
 index.html: index.jemdoc
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `index'
-#  Last modified 2022-07-07 18:33:32
+#  Last modified 2022-07-07 20:00:08
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -282,6 +281,6 @@ upload:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Jul  7 19:59:56 2022
+# Finished Make data base on Fri Jul  8 18:49:04 2022
 
  
