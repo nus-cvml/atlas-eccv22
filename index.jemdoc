@@ -25,7 +25,31 @@ Such challenges include: /“What are the actions and when do these actions happ
 Our main focus for this tutorial is two tasks that aim to find human actions in videos, /i.e./,  Temporal Action Localization\/Detection (TAL\/D) and Temporal Action Segmentation (TAS).
 
 = Speakers
-TBD
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="./profiles/angela.png">
+        <p>
+            <b>Angela Yao</b></br>
+            Assistant Professor, SoC NUS
+        </p>
+    </div>
+    <div id="member">
+        <img src="./profiles/junsong.png">
+        <p>
+            <b>Junsong Yuan</b></br>
+            Professor, CSE SUNY Buffalo
+        </p>
+    </div> 
+    <div id="member">
+        <img src="./profiles/ehsan.png">
+        <p>
+            <b>Ehsan Elhamifar</b></br>
+            Associate Professor, Northeastern Univeristy
+        </p>
+    </div>
+</div>
+}}
 
 = Schedule
 TBD

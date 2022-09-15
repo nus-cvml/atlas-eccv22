@@ -2,7 +2,7 @@ m ?= regular update
 
 DOCS = $(basename $(shell find . -name "*.jemdoc"))
 
-COMPILER = jemdoc
+COMPILER = ./jemdoc
 CONF = mysite.conf
 
 HDOCS=$(addsuffix .html, $(DOCS))
