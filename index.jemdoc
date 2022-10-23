@@ -6,23 +6,24 @@
 {{
 <div id="beamer">
 <beam> 
-<b>A</b>c<b>T</b>ion <b>L</b>ocalization <b>A</b>nd <b>S</b>egmentation in Untrimmed Videos
+<b>A</b>c<b>T</b>ion <b>L</b>ocalization <b>A</b>nd <b>S</b>egmentation in Video
 </beam></br>
 <beams>
 in conjunction with ECCV 2022, TEL AVIV</br>
-Monday Morning, October 24, 2022 
+Israel C (120), Dan Panorama, Monday Morning, October 24, 2022 
 </beams>
 </div>
 }}
 
 = Overview 
 The majority of research in action understanding focuses on designing methods to encode a few seconds of short, trimmed clips and classify these with single action labels. 
-Such methods, however, are rarely applicable for temporally localizing and\/or classifying actions from longer, untrimmed streams of video. 
-In this tutorial, we would like to focus on research on understanding actions in untrimmed, long videos up to tens of minutes.\n
+Such methods, however, are rarely applicable for temporally localizing and\/or classifying actions from longer streams of video. 
+In this tutorial, we would like to focus on research on understanding actions long videos up to tens of minutes.\n
     
-Compared to action recognition from trimmed video clips, untrimmed long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. 
-Such challenges include: /“What are the actions and when do these actions happen in the untrimmed long video sequences?”/ 
+Compared to action recognition from trimmed video clips long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. 
+Such challenges include: /“What are the actions and when do these actions happen in the long video sequences?”/ 
 Our main focus for this tutorial is two tasks that aim to find human actions in videos, /i.e./,  Temporal Action Localization\/Detection (TAL\/D) and Temporal Action Segmentation (TAS).
+
 
 = Speakers
 {{
@@ -31,31 +32,31 @@ Our main focus for this tutorial is two tasks that aim to find human actions in 
         <img src="./profiles/angela.png">
         <p>
             <b><a href="https://www.comp.nus.edu.sg/~ayao/">Angela Yao</a></b></br>
-            Assistant Professor, SoC NUS
+            Assistant Professor, National University of Singapore
         </p>
     </div>
     <div id="member">
         <img src="./profiles/junsong.png">
         <p>
             <b><a href="https://cse.buffalo.edu/~jsyuan/">Junsong Yuan</a></b></br>
-            Professor, CSE SUNY Buffalo
+            Professor, SUNY Buffalo
         </p>
     </div> 
+    <div id="member">
+        <img src="./profiles/hilde.png">
+        <p>
+            <b><a href="https://hildekuehne.github.io/">Hilde Kuehne</a></b></br>
+            Assistant Professor, Goethe University
+        </p>
+    </div>
     <div id="member">
         <img src="./profiles/ehsan.png">
         <p>
             <b><a href="https://www.ccs.neu.edu/home/eelhami/">Ehsan Elhamifar</a></b></br>
-            Associate Professor, Northeastern Univeristy
+            Associate Professor, Northeastern University
         </p>
     </div>
-        <div id="member">
-        <img src="./profiles/hilde.png">
-        <p>
-            <b><a href="https://hildekuehne.github.io/">Hilde Kuehne</a></b></br>
-            Assistant Professor, Goethe Univeristy
-        </p>
-    </div>
-        <div id="member">
+    <div id="member">
         <img src="./profiles/yougesh.png">
         <p>
             <b><a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh S Rawat</a></b></br>
@@ -66,19 +67,27 @@ Our main focus for this tutorial is two tasks that aim to find human actions in 
 }}
 
 = Schedule
-You may join us via Zoom 
-- Opening Remarks (8:10 - 8:20am, Organizers) 
-- Title (9:20 - 9:00am, Yao) \[[video]\] #\[[ Resources]\]|\[[Slides]\]|\[[YouTube]\]|\[[Survey]\]
-- Title (9:00 - 9:40am, Yuan) \[[video]\] \[[slide]\]
-- Coffee Break (9:40 - 9:50am) 
-- Title (9:50 - 10:30, Kuehne) \[[video]\] \[[slide]\]
-- Title (10:30 - 11:10am, Elhamifar) \[[video]\] \[[slide]\]
-- Title (11:10 - 11:50am, Rawat) \[[video]\] \[[slide]\]
+For those who are not attending in person, you may join us over Zoom with the following link.
+
+- *Opening Remarks* (9:00 - 9:10am, /Organizers/) 
+- *Temporal Action Segmentation* (9:10 - 9:45am, /Yao/) \[[video]\] \[[slide]\]#\[[ Resources]\]|\[[Slides]\]|\[[YouTube]\]|\[[Survey]\]
+- *Temporal Action Localization* (9:45 - 10:20am, /Yuan/) \[[video]\] \[[slide]\]
+- *Coffee Break* (10:20 - 10:40am) 
+- *Spatio-Temporal Action Localization* (10:40 - 11:15am, /Kuehne/) \[[video]\] \[[slide]\]
+- *Multimodal Segmentation* (11:15 - 11:50am, /Elhamifar/) \[[video]\] \[[slide]\]
+- *Action Detection* (11:50 - 12:25am, /Rawat/) \[[video]\] \[[slide]\]
+- *Conclusion* (12:25 - 12:30pm, All)
+
+
 
 = Resources
-- Awesome-temporal-action-segmentation \[[https://github.com/atlas-eccv22/awesome-temporal-action-segmentation Github]\]
-- Temporal Action Segmentation: An analysis of Modern Tehcnique \[[PDF]\]
-
+- *Work Compliation*
+. Awesome Temporal Action Segmentation \[[https://github.com/atlas-eccv22/awesome-temporal-action-segmentation Github]\]
+. Awesome Temporal Action Localization \[[https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization Github]\]
+- *Survey*
+. Temporal Action Segmentation: An Analysis of Modern Technique, /2022/. Guodong Ding, Fadime Sener and Angela Yao. \[[https://arxiv.org/pdf/2210.10352.pdf PDF]\]
+. Weakly-supervised temporal action localization: a survey, /2022/. AbdulRahman Baraka and Mohd Halim Mohd Noor. \[[https://link.springer.com/article/10.1007/s00521-022-07102-x PDF]\]
+. A Survey on Temporal Action Localization, /2020/. Huifen Xia and Yongzhao Zhan \[[https://ieeexplore.ieee.org/document/9062498 PDF]\]
 = Organizers
 {{
 <div id="member-container">
@@ -86,16 +95,16 @@ You may join us via Zoom
         <img src="./profiles/angela.png">
         <p>
             <b>Angela Yao</b></br>
-            Assistant Professor, SoC NUS
+            Assistant Professor, National University of Singapore
         </p>
     </div>
     <div id="member">
         <img src="./profiles/junsong.png">
         <p>
             <b>Junsong Yuan</b></br>
-            Professor, CSE SUNY Buffalo
+            Professor, SUNY Buffalo
         </p>
-    </div> 
+    </div>
     <div id="member">
         <img src="./profiles/fadime.png">
         <p>
@@ -107,7 +116,7 @@ You may join us via Zoom
         <img src="./profiles/guodong.png">
         <p>
             <b>Guodong Ding</b></br>
-            Research Fellow, SoC NUS
+            Research Fellow, National University of Singapore
         </p>
     </div>
 </div>
