@@ -22,7 +22,7 @@ In this tutorial, we would like to focus on research on understanding actions lo
     
 Compared to action recognition from trimmed video clips long video understanding tasks pose more challenges due to the long span of videos and complex temporal relations between occurring actions. 
 Such challenges include: /“What are the actions and when do these actions happen in the long video sequences?”/ 
-Our main focus for this tutorial is two tasks that aim to find human actions in videos, /i.e./,  Temporal Action Localization\/Detection (TAL\/D) and Temporal Action Segmentation (TAS).
+Our main focus for this tutorial is two tasks that aim to find human actions in videos, /i.e./,  Temporal Action Detection\/Localization (TAD\/L) and Temporal Action Segmentation (TAS).
 
 
 = Speakers
@@ -67,16 +67,15 @@ Our main focus for this tutorial is two tasks that aim to find human actions in 
 }}
 
 = Schedule
-For those who are not attending in person, you may join us over Zoom with the following link.
 
 - *Opening Remarks* (9:00 - 9:10am, /Organizers/) 
-- *Temporal Action Segmentation* (9:10 - 9:45am, /Yao/) \[[video]\] \[[slide]\]#\[[ Resources]\]|\[[Slides]\]|\[[YouTube]\]|\[[Survey]\]
-- *Temporal Action Localization* (9:45 - 10:20am, /Yuan/) \[[video]\] \[[slide]\]
+- *Invited Speaker: Angela Yao* (9:10 - 9:45am) \[[video]\] \[[slide]\]#\[[ Resources]\]|\[[Slides]\]|\[[YouTube]\]|\[[Survey]\]
+- *Invited Speaker: Junsong Yuan* (9:45 - 10:20am) \[[video]\] \[[slide]\]
 - *Coffee Break* (10:20 - 10:40am) 
-- *Spatio-Temporal Action Localization* (10:40 - 11:15am, /Kuehne/) \[[video]\] \[[slide]\]
-- *Multimodal Segmentation* (11:15 - 11:50am, /Elhamifar/) \[[video]\] \[[slide]\]
-- *Action Detection* (11:50 - 12:25am, /Rawat/) \[[video]\] \[[slide]\]
-- *Conclusion* (12:25 - 12:30pm, All)
+- *Invited Speaker: Hilde Kuehne* (10:40 - 11:15am) \[[video]\] \[[slide]\]
+- *Invited Speaker: Ehsan Elhamifar* (11:15 - 11:50am) \[[video]\] \[[slide]\]
+- *Invited Speaker: Yogesh S Rawat* (11:50 - 12:25pm) \[[video]\] \[[slide]\]
+- *Conclusion* (12:25 - 12:30pm, /All/)
 
 
 
@@ -86,7 +85,7 @@ For those who are not attending in person, you may join us over Zoom with the fo
 . Awesome Temporal Action Localization \[[https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization Github]\]
 - *Survey*
 . Temporal Action Segmentation: An Analysis of Modern Technique, /2022/. Guodong Ding, Fadime Sener and Angela Yao. \[[https://arxiv.org/pdf/2210.10352.pdf PDF]\]
-. Weakly-supervised temporal action localization: a survey, /2022/. AbdulRahman Baraka and Mohd Halim Mohd Noor. \[[https://link.springer.com/article/10.1007/s00521-022-07102-x PDF]\]
+. Weakly-supervised Temporal Action Localization: A Survey, /2022/. AbdulRahman Baraka and Mohd Halim Mohd Noor. \[[https://link.springer.com/article/10.1007/s00521-022-07102-x PDF]\]
 . A Survey on Temporal Action Localization, /2020/. Huifen Xia and Yongzhao Zhan \[[https://ieeexplore.ieee.org/document/9062498 PDF]\]
 = Organizers
 {{
